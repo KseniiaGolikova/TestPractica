@@ -14,4 +14,6 @@
 |8|[Определение наиболее выгодного региона нефтедобычи](https://github.com/KseniiaGolikova/Portfolio/tree/main/8.%20Location_for_the_well)|Построение оптимальной модели машинного обучения, прогнозирующая регион, где добыча нефти принесет наибольшую прибыль|Python, Pandas, Scikit-learn, бутстреп|
 |9|[Исследование технологического процесса очистки золота](https://github.com/KseniiaGolikova/Portfolio/tree/main/9.%20Industry_gold)|Прогнозирование с помощью инструментов машинного обучения концентрации золота при проведении процесса очистки золота|Python, Pandas, Scikit-learn, Matplotlib, NumPy|
 |10|[Защита данных клиентов страховой компании](https://github.com/KseniiaGolikova/Portfolio/tree/main/10.%20Protection_personal_data)|С помощью инструментов линейной алгебры предложить метод защиты персональных данных клиента не влияющий на обучение модели машинного обучения|Python, Pandas, Scikit-learn, NumPy|
-|11||||
+|11|[Построение модели определения стоимости автомобиля](https://github.com/KseniiaGolikova/Portfolio/tree/main/11.%20Car_cost)|Построение оптимальной модели машинного обучения с применением градиентного бустинга для определения стоимости автомобиля|Python, Pandas, Scikit-learn, CatBoost, LightGBM|
+|12|[Прогнозирование заказов такси](https://github.com/KseniiaGolikova/Portfolio/tree/main/12.%20Taxi_order)|Построение оптималной модели машинного обучения с применением библиотек численных методов|Python, Pandas, Scikit-learn, statsmodels|
+|13|||
